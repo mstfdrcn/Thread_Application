@@ -1,0 +1,15 @@
+C:\Users\W10\Desktop\İsletim_Sistemleri\Vize_Odev\Vize_Odev\bin\Debug\net7.0\Vize_Odev.exe
+C:\Users\W10\Desktop\İsletim_Sistemleri\Vize_Odev\Vize_Odev\bin\Debug\net7.0\Vize_Odev.deps.json
+C:\Users\W10\Desktop\İsletim_Sistemleri\Vize_Odev\Vize_Odev\bin\Debug\net7.0\Vize_Odev.runtimeconfig.json
+C:\Users\W10\Desktop\İsletim_Sistemleri\Vize_Odev\Vize_Odev\bin\Debug\net7.0\Vize_Odev.dll
+C:\Users\W10\Desktop\İsletim_Sistemleri\Vize_Odev\Vize_Odev\bin\Debug\net7.0\Vize_Odev.pdb
+C:\Users\W10\Desktop\İsletim_Sistemleri\Vize_Odev\Vize_Odev\obj\Debug\net7.0\Vize_Odev.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\İsletim_Sistemleri\Vize_Odev\Vize_Odev\obj\Debug\net7.0\Vize_Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\Desktop\İsletim_Sistemleri\Vize_Odev\Vize_Odev\obj\Debug\net7.0\Vize_Odev.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\İsletim_Sistemleri\Vize_Odev\Vize_Odev\obj\Debug\net7.0\Vize_Odev.AssemblyInfo.cs
+C:\Users\W10\Desktop\İsletim_Sistemleri\Vize_Odev\Vize_Odev\obj\Debug\net7.0\Vize_Odev.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\İsletim_Sistemleri\Vize_Odev\Vize_Odev\obj\Debug\net7.0\Vize_Odev.dll
+C:\Users\W10\Desktop\İsletim_Sistemleri\Vize_Odev\Vize_Odev\obj\Debug\net7.0\refint\Vize_Odev.dll
+C:\Users\W10\Desktop\İsletim_Sistemleri\Vize_Odev\Vize_Odev\obj\Debug\net7.0\Vize_Odev.pdb
+C:\Users\W10\Desktop\İsletim_Sistemleri\Vize_Odev\Vize_Odev\obj\Debug\net7.0\Vize_Odev.genruntimeconfig.cache
+C:\Users\W10\Desktop\İsletim_Sistemleri\Vize_Odev\Vize_Odev\obj\Debug\net7.0\ref\Vize_Odev.dll
